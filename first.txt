@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hiiiiiii - hello
-=======
 Hiiiii
->>>>>>> origin/main
